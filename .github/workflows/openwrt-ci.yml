@@ -4,10 +4,10 @@
 # Copyright (C) 2019 P3TERX <https://p3terx.com>
 # Copyright (C) 2019 KFERMercer <KFER.Mercer@gmail.com>
 # 
-# <https://github.com/KFERMercer/OpenWrt-CI0>
+# <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-CI
+name: OpenWrt-CI0
 
 on:
   schedule:
